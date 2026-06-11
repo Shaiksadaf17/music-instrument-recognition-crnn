@@ -17,6 +17,33 @@ The system processes audio signals by converting them into **Log-Mel Spectrogram
 - Evaluate model performance using accuracy and F1-score metrics.
 
 ---
+## 🚀 Tech Stack
+
+### Programming Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Deep Learning & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Audio Processing
+![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Development Environment
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### Model Architecture
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-blueviolet?style=for-the-badge)
+![BiGRU](https://img.shields.io/badge/BiGRU-Recurrent%20Neural%20Network-success?style=for-the-badge)
+![CRNN](https://img.shields.io/badge/CRNN-Audio%20Classification-red?style=for-the-badge)
+
+---
 
 ## 🏗️ Model Architecture
 
